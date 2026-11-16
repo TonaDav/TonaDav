@@ -9,7 +9,7 @@ My passion for technology and programming has led me to learn programming langua
 </p>
 
 <p align="left">
-My long-term goal is to specialize in <b>AI Engineering</b>, integrating AI models into real-world products via RAG and APIs. As a stepping stone towards that goal, I am currently pursuing <b>Data Analytics</b> internships, developing my skills in Python, Excel, Power BI, and SQL. Additionally, I enjoy working in a team, sharing my knowledge and, of course, learning from others.
+My long-term goal is to specialize in <b>AI Engineering</b>, integrating AI models into real-world products via RAG, fine-tuning, and APIs. As a stepping stone towards that goal, I am currently pursuing <b>Tech & Automation/Data Analytics</b> internships, developing my skills in Python, Java, JavaScript, Excel, Power BI, and SQL. Additionally, I enjoy working in a team, sharing my knowledge and, of course, learning from others.
 </p>
 
 <hr>
